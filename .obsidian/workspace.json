@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 358.5
   },
   "right": {
     "id": "238dcf72826b7114",
@@ -185,8 +185,8 @@
   },
   "active": "7055b17a6b643a6f",
   "lastOpenFiles": [
-    "eslint",
     "pmesystem@0.1.0",
+    "eslint",
     "src/components/ui/page-header.tsx",
     "src/components/ui/loading-spinner.tsx",
     "src/components/ui/data-table.tsx",
